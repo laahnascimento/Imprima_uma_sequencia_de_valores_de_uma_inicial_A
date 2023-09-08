@@ -8,4 +8,5 @@ media=float(input("Qual a sua nota:"))
    
    else:
     print("Você está de recuperação.")
+      
    
